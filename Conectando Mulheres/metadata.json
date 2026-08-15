@@ -1,0 +1,6 @@
+{
+  "name": "Conectando Mulheres: Lógica & Tecnologia",
+  "description": "Base de registros e documentação oficial do projeto de extensão universitária Conectando Mulheres: Computação Desplugada, trilha de oficinas pedagógicas, evidências fotográficas e painel administrativo para atualização contínua de etapas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
